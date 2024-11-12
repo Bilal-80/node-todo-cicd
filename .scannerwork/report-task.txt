@@ -1,0 +1,6 @@
+projectKey=nodetodo
+serverUrl=http://188.166.249.62:9000
+serverVersion=9.9.7.96285
+dashboardUrl=http://188.166.249.62:9000/dashboard?id=nodetodo
+ceTaskId=AZMe2lWh2Qc1ixQRNNO1
+ceTaskUrl=http://188.166.249.62:9000/api/ce/task?id=AZMe2lWh2Qc1ixQRNNO1

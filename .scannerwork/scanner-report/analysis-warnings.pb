@@ -1,0 +1,3 @@
+€
+wJavaScript/TypeScript/CSS rules were not executed. Error when running: 'node -v'. Is Node.js available during analysis?ãŸéö±2£
+™Missing blame information for 3 files. This may lead to some features not working correctly. Please check the analysis logs and refer to <a href="https://docs.sonarqube.org/9.9/analyzing-source-code/scm-integration/" rel="noopener noreferrer" target="_blank">the documentation</a>.·©éö±2
